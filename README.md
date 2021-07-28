@@ -17,4 +17,4 @@ The tool helps the user to mask the skin of a person.
 
 ## Output:
 ```
-The output will be generated in the output folder with marked hands on it.
+The output will be generated in the output folder with masked image in it.
