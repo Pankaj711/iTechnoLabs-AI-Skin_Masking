@@ -3,7 +3,6 @@
 import torch.nn as nn
 import torch.nn.functional as F
 
-
 def double_conv_bn_relu(in_channels: int,
                         out_channels: int,
                         kernel_size: int = 3,
